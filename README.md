@@ -5,6 +5,4 @@ This is my take on the renowned Titanic Dataset. Since, the problem is very comm
 To my surprise, I ranked #631 when I uploaded my predictions to the Kaggle Website.
 Link here: https://www.kaggle.com/ashwinkumarj
 
-Top 5% on my first few attempts.
-
-I am pursuing other methods to increase this accuracy.
+I am among the Top 5% in my third attempt and I am pursuing other methods to increase this accuracy.
